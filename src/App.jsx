@@ -124,7 +124,7 @@ function App() {
 
       <MDBRow className=' text-center d-flex justify-content-evenly mt-4 '>
       <MDBCol></MDBCol>
-            <MDBCol md='2'>
+            <MDBCol md='2' className='mb-3'>
               <MDBBtn className=' btn btn-outline-light'>Ring as on Skype</MDBBtn>
             </MDBCol>
             <MDBCol  md='2'>
